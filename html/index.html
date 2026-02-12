@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PVP HUD</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="hud-container">
+        <!-- Armor Section -->
+        <div id="armor-section">
+            <div id="armor-icon"></div>
+            <div id="armor-value">0</div>
+            <div id="armor-segments">
+                <div class="armor-segment"></div>
+                <div class="armor-segment"></div>
+                <div class="armor-segment"></div>
+                <div class="armor-segment"></div>
+                <div class="armor-segment"></div>
+            </div>
+        </div>
+
+        <!-- Health Section -->
+        <div id="health-section">
+            <div id="health-icon"></div>
+            <div id="health-bar-container">
+                <div id="health-bar-bg">
+                    <div id="health-bar-fill"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
