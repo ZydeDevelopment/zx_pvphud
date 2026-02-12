@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'EDZINK'
+author 'ZydeDevelopment'
 description 'PVP HUD for FiveM - ESX & QB-Core Compatible'
 version '1.0.0'
 
@@ -26,3 +26,4 @@ dependencies {
 }
 
 lua54 'yes'
+
