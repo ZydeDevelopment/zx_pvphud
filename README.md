@@ -117,6 +117,10 @@ You can customize colors and appearance in the `html/style.css` file:
 - **Low Health Warning** - Red pulsing effect at low health (below 25%)
 - **Segmented Armor** - Visual representation of armor in 20% segments
 
+## PREVIEW
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1978dac2-1e21-4daf-86f8-c92887d851e6" />
+
+
 ## 📜 License
 
 This project is open-source and freely available for use on FiveM servers.
@@ -134,3 +138,4 @@ Need help or have suggestions for improvements?
 ---
 
 ⭐ If you like this resource, give it a star on GitHub!
+
